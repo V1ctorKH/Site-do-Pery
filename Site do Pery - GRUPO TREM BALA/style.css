@@ -1,4 +1,14 @@
 body{
     background: turquoise;
     font-family: "roboto condensed";
+    padding-top: 70px;
+    
+}
+header{
+    font-size: 40px;
+    font-weight: 200;
+}
+h2{
+    font-size: 26px;
+    text-align: center;
 }
